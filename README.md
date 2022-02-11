@@ -8,10 +8,9 @@ degree in computer science.
 - I write tweets [here][twitter].
 - I write other stuff [here][blog].
 
-You can get in touch by emailing me (see profile). _[Need to encrypt your message?][keybase]_
+You can get in touch by emailing me (see profile).
 
 [amzn]: https://www.github.com/amzn
 [purdue]: https://www.cs.purdue.edu
 [twitter]: https://www.twitter.com/drewdavis418
-[blog]: https://www.bointer.net
-[keybase]: https://keybase.io/bointer
+[blog]: https://www.drewdavis.me/
