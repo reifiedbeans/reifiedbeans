@@ -13,4 +13,4 @@ You can get in touch by emailing me (see profile).
 [amzn]: https://www.github.com/amzn
 [purdue]: https://www.cs.purdue.edu
 [twitter]: https://www.twitter.com/reifiedbeans
-[blog]: https://www.drewdavis.me/
+[blog]: https://www.reifiedbeans.net
