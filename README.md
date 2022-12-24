@@ -5,12 +5,12 @@ degree in computer science.
 
 #### Quick links
 - I write code here.
-- I write tweets [here][twitter].
+- I write toots [here][mastodon].
 - I write other stuff [here][blog].
 
 You can get in touch by emailing me (see profile).
 
 [amzn]: https://www.github.com/amzn
 [purdue]: https://www.cs.purdue.edu
-[twitter]: https://www.twitter.com/reifiedbeans
+[mastodon]: https://social.lol/@reifiedbeans
 [blog]: https://www.reifiedbeans.net
