@@ -8,8 +8,6 @@ degree in computer science.
 - I write toots [here][mastodon].
 - I write other stuff [here][blog].
 
-You can get in touch by emailing me (see profile).
-
 [amzn]: https://www.github.com/amzn
 [purdue]: https://www.cs.purdue.edu
 [mastodon]: https://social.lol/@reifiedbeans
