@@ -5,10 +5,8 @@ degree in computer science.
 
 #### Quick links
 - I write code here.
-- I write toots [here][mastodon].
 - I write other stuff [here][blog].
 
 [amzn]: https://www.github.com/amzn
 [purdue]: https://www.cs.purdue.edu
-[mastodon]: https://social.lol/@reifiedbeans
 [blog]: https://www.reifiedbeans.net
